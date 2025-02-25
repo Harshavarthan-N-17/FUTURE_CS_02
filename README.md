@@ -53,17 +53,10 @@ python password_analyzer.py
 ---
 
 ## Screenshot 🖼️  
-(Add a screenshot of your tool here if you want)  
-
----
-
-## Contributing 🤝  
-Feel free to fork this repository and make improvements! 🚀  
-1. **Fork** the repo  
-2. **Create a new branch** (`git checkout -b feature-branch`)  
-3. **Make changes & commit** (`git commit -m "Added new feature"`)  
-4. **Push to GitHub** (`git push origin feature-branch`)  
-5. **Open a Pull Request**  
+![Password Analyzer Screenshot](screenshots/StrongPassword.png)
+![Password Analyzer Screenshot](screenshots/ModeratePassword.png)
+![Password Analyzer Screenshot](screenshots/WeakPassword.png)
+![Password Analyzer Screenshot](screenshots/Hashing.png)
 
 ---
 
